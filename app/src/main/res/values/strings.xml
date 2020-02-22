@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Glovo</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="txt_btn_login">Inicia sesión</string>
+    <string name="dont_have_account">¿No tienes cuenta? </string>
+    <string name="have_account">¿Ya tienes una cuenta? </string>
+    <string name="hint_email">Email</string>
+    <string name="hint_user">Usuario</string>
+    <string name="hint_tlfn">Telefono</string>
+    <string name="hint_confirm_password">Confirmar contraseña</string>
+    <string name="hint_search">Buscar negocios...</string>
+    <string name="hint_searchRestaurant">Buscar restaurante...</string>
+    <string name="hint_searchBreakfast">Buscar cafeteria...</string>
+    <string name="hint_searchSupermarket">Buscar Supermercado...</string>
+    <string name="hint_confirmUpdate">Confirma tu email y contraseña para aplicar los cambios</string>
+    <string name="txt_btn_createaccount">Registrar</string>
+    <string name="txt_btn_changeSettings">Confirmar cambios</string>
+    <string name="hint_settings_login">Inicia sesión con tu cuenta</string>
+    <string name="hint_settings_register">Create una nueva cuenta</string>
+    <string name="hint_settings_logout">Cerrar sesión</string>
+    <string name="hint_settings_others">Otras opciones</string>
+
+</resources>

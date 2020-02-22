@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffc244</color>
+    <color name="colorPrimaryDark">#2ABB9B</color>
+    <color name="colorAccent">#0f0f0f</color>
+    <color name="editTextColorWhite">#ffffff</color>
+    <color name="editTextColorBlack">#000000</color>
+    <color name="backgroundtext_card">#53292920</color>
+    <color name="dangerBtn">#d9534f</color>
+
+</resources>
